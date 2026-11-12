@@ -1,5 +1,5 @@
 # Neon-Snake
-A neon-themed Sanke game developed using Python and Pygame.
+A neon-themed Snake game developed using Python and Pygame.
 
 About the Project
 
